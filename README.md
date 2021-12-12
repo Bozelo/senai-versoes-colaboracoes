@@ -4,3 +4,5 @@ Repositório de versões e colaborações
 readme de exemplo para o estudo de versionamento.
 
 lembrei do comando: git commit
+lembrei do comando: git status
+
