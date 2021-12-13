@@ -1,5 +1,5 @@
 # senai-versoes-colaboracoes
-Principais comandos utilizados para gerenciar o versionamento:
+Principais comandos utilizados para gerenciar o versionamento de codigo:
 
 git init;
 git status;
