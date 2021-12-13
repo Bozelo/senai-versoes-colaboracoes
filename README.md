@@ -1,4 +1,11 @@
 # senai-versoes-colaboracoes
-Repositório de versões e colaborações
+Principais comandos utilizados para gerenciar o versionamento:
 
-readme de exemplo para o estudo de versionamento.
+git init
+git status
+git commit -m "comentario"
+git push -u origin main
+git add .
+git remote -v
+git checkout main
+
